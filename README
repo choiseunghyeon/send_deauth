@@ -1,0 +1,9 @@
+this source code is about deauthentication packet
+deauth는 wifi와의 연결을 끊을 때 발생한다.
+임의로 deauth 패킷을 broadcast로 발생시키면 해당 wifi와 연결된 모든 station이 연결이 끊어집니다.
+if you want using this source code then follow these steps 
+1. enter this site http://libtins.github.io/
+2. enter this site https://gitlab.com/gilgil/network/wikis/home
+3. download  libpcap-dev && libssl-dev && g++
+
+thank you for watching
